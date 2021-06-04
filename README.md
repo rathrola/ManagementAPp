@@ -1,0 +1,2 @@
+# ManagementAPp
+.NETCORE/EntityFramework/SQL
